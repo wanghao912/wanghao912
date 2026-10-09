@@ -11,8 +11,13 @@ I am currently a final-year undergraduate student majoring in Software Engineeri
 
 My preliminary research interests focus on AI agents. I’m always happy to exchange ideas and discuss potential collaborations—feel free to reach out!
 
-### Publications
+### Publications 📜
 
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=yG7YzM4AAAAJ&hl=en) for the full publication list.
+
+### Get in Touch 📬
+
+- Email: [2023210984@stu.hit.edu.cn](mailto:2023210984@stu.hit.edu.cn)
+
 
 
