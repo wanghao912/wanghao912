@@ -14,8 +14,7 @@ My preliminary research interests focus on AI agents. I’m always happy to exch
 ### Publications 📜
 
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=yG7YzM4AAAAJ&hl=en) for the full publication list.
-
-\* denotes equal contribution.
+<sub>* denotes equal contribution.</sub>
 
 ### 🔍 **AIFIND: Artifact-Aware Interpreting Fine-Grained Alignment for Incremental Face Forgery Detection**
 
