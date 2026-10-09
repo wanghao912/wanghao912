@@ -24,8 +24,6 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=yG7Yz
 
 📝 **ICMR 2026**  📄[Paper](https://dl.acm.org/doi/full/10.1145/3805622.3810877)
 
----
-
 
 ### 🎬 **ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search**
 
