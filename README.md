@@ -17,6 +17,7 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=yG7Yz
 
 ### Get in Touch 📬
 
+- GitHub: [@wanghao912](https://github.com/wanghao912)
 - Email: [2023210984@stu.hit.edu.cn](mailto:2023210984@stu.hit.edu.cn)
 
 
