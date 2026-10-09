@@ -20,12 +20,14 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=yG7Yz
 ### 🔍 **AIFIND: Artifact-Aware Interpreting Fine-Grained Alignment for Incremental Face Forgery Detection**
 
 **Hao Wang**, Beichen Zhang, Yanpei Gong, Shaoyi Fang, Zhaobo Qi, Yuanrong Xu, Xinyan Liu, Weigang Zhang
+
 📝 **ICMR 2026**  [📄 Paper](https://dl.acm.org/doi/full/10.1145/3805622.3810877)
 
 
 ### 🎬 **ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search**
 
 Tao Yu\*, Haopeng Jin\*, **Hao Wang\***, Shenghua Chai, Yujia Yang, Junhao Gong, Jiaming Guo, Minghui Zhang, et al
+
 📝 **EMNLP 2026 findings**  [📄 Paper](https://arxiv.org/abs/2601.23232)   [💻 Code](https://github.com/yutao1024/ShotFinder)
 
 
