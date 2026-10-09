@@ -1,16 +1,26 @@
-## Hi there 👋
+<img src="img/allo-happy.gif" width="25"/> ***Some days you bloom, some days you grow roots. Both matter.***
+<hr>
 
-<!--
-**wanghao912/wanghao912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img align="right" width="35%" src="img/avatar.jpg"/>
+</div>
 
-Here are some ideas to get you started:
+# Hao Wang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently a final-year undergraduate student majoring in Software Engineering at Harbin Institute of Technology, Weihai. I will soon join the [VIPL](https://vipl.ict.ac.cn/) Lab at the Institute of Computing Technology (ICT), Chinese Academy of Sciences, to pursue a Ph.D.
+
+My preliminary research interests focus on AI agents. I’m always happy to exchange ideas and discuss potential collaborations—feel free to reach out!
+
+
+### Selected Honors
+  
+- ✨**National Scholarship (2025)**
+- 🏆**National First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling (2025)
+- 🏆**Meritorious Winner** of Mathematical Contest in Modeling (2026)
+- ✨**First-Class People's Scholarship** of Harbin Institute of Technology,Weihai (2024,2025)
+
+### Publications
+
+Please visit my [Google Scholar](https://scholar.google.com/citations?user=yG7YzM4AAAAJ&hl=en) for the full publication list.
+
+
