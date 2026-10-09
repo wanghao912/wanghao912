@@ -7,7 +7,7 @@
 
 # Hao Wang
 
-I am currently a final-year undergraduate student majoring in Software Engineering at Harbin Institute of Technology, Weihai. I will soon join the [VIPL](https://vipl.ict.ac.cn/) Lab at the Institute of Computing Technology (ICT), Chinese Academy of Sciences, to pursue a Ph.D, co-advised by Prof. [Qingming Huang](https://vipl.ict.ac.cn/people/qmhuang/) and Prof. [Qianqian Xu](https://vipl.ict.ac.cn/people/qqxu/).
+I am currently a final-year undergraduate student majoring in Software Engineering at Harbin Institute of Technology, Weihai. I will soon join the [VIPL](https://vipl.ict.ac.cn/) Lab at the Institute of Computing Technology (ICT), Chinese Academy of Sciences, co-advised by Prof. [Qingming Huang](https://vipl.ict.ac.cn/people/qmhuang/) and Prof. [Qianqian Xu](https://vipl.ict.ac.cn/people/qqxu/), to pursue a Ph.D,
 
 My preliminary research interests focus on AI agents. I’m always happy to exchange ideas and discuss potential collaborations—feel free to reach out!
 
