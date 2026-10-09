@@ -2,7 +2,7 @@
 <hr>
 
 <div>
-  <img align="right" width="35%" src="img/avatar.jpg"/>
+  <img align="right" width="30%" src="img/avatar.jpg"/>
 </div>
 
 # Hao Wang
@@ -10,6 +10,8 @@
 I am currently a final-year undergraduate student majoring in Software Engineering at Harbin Institute of Technology, Weihai. I will soon join the [VIPL](https://vipl.ict.ac.cn/) Lab at the Institute of Computing Technology (ICT), Chinese Academy of Sciences, co-advised by Prof. [Qingming Huang](https://vipl.ict.ac.cn/people/qmhuang/) and Prof. [Qianqian Xu](https://vipl.ict.ac.cn/people/qqxu/), to pursue a Ph.D,
 
 My preliminary research interests focus on AI agents. I’m always happy to exchange ideas and discuss potential collaborations—feel free to reach out!
+
+---
 
 ### Publications 📜
 
@@ -22,6 +24,8 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=yG7Yz
 
 📝 **ICMR 2026**  📄[Paper](https://dl.acm.org/doi/full/10.1145/3805622.3810877)
 
+---
+
 
 ### 🎬 **ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search**
 
@@ -29,6 +33,7 @@ Tao Yu\*, Haopeng Jin\*, **Hao Wang\***, Shenghua Chai, Yujia Yang, Junhao Gong,
 
 📝 **EMNLP 2026 findings**  📄[Paper](https://arxiv.org/abs/2601.23232)   💻[Code](https://github.com/yutao1024/ShotFinder)
 
+---
 
 ### Get in Touch 📬
 
